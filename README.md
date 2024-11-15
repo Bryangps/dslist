@@ -30,34 +30,15 @@ Pré-requisitos: Java 17
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone git@github.com:Bryangps/dslist.git
 
 # entrar na pasta do projeto back end
-cd backend
+cd D:\Java_Geral\Nelio_alves\Intensivao-java-spring\dslist
+
+# abra o projeto no Intellij
 
 # executar o projeto
 ./mvnw spring-boot:run
+ou
+Run da ide
 ```
-
-## Front end web
-Pré-requisitos: npm / yarn
-
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
-# entrar na pasta do projeto front end web
-cd front-web
-
-# instalar dependências
-yarn install
-
-# executar o projeto
-yarn start
-```
-
-# Autor
-
-Wellington Mazoni de Andrade
-
-https://www.linkedin.com/in/wmazoni
