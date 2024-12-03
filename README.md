@@ -2,6 +2,7 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
 
 # Sobre o projeto
+Projeto desenvolvido durante o intensivão do professor nelio alves, 
 
 https://dslist-production-6639.up.railway.app
 
